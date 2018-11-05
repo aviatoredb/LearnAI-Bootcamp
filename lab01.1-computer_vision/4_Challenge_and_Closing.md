@@ -27,4 +27,4 @@ Resources for future projects/learning:
 
 
 
-Back to [README](./0_README.md)
+Back to [README](https://github.com/aviatoredb/LearnAI-Bootcamp/blob/master/README.md)

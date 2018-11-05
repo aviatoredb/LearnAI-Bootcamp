@@ -46,18 +46,19 @@ Finally, before arriving at the workshop, we expect you to have completed [1_Set
 Please note: This is a rough agenda, and the schedule is subject to change pending class activities, breaks, and interactions.
 
 - Day 1: Cognitive Services
-  - 8-9 (optional): Setup assistance
-  - 9-10: Introduction to Cognitive Services
-  - 10-11: [Lab 1.1: Simplifying Cognitive Services App Development using Portable Class Libraries][lab-cogsrvc-301]
-  - 11-12: [Lab 2.1: Developing Intelligent Applications with Azure Search][lab-azsearch-301]
+  - 8-8:30 (optional): Setup assistance
+  - 8:30-9:30: Introduction to Cognitive Services
+  - 9:30-10:30: [Lab 1.1: Simplifying Cognitive Services App Development using Portable Class Libraries][lab-cogsrvc-301]
+  - 10:30-11:30: [Lab 2.1: Developing Intelligent Applications with Azure Search][lab-azsearch-301]
+  - 11:30-12:00: [Lab 1.5: Developing Intelligent Applications with LUIS][lab-cogsrvc-341]
   - 12-1: Lunch
-  
+
+
   - 1-1:30: Introduction to Custom Vision
   - 1:30-2: [Lab 1.2: Creating an Image Classification Application using the Custom Vision Service][lab-cogsrvc-321]
   - 2-2:30: [Lab 1.3: Creating an Object Detection Application using the Custom Vision Service][lab-cogsrvc-322]
     - [Optional Challenge] [Lab 1.4: Creating an Image Classification Application using the Custom Vision Service][lab-cogsrvc-323]
   - 2:30-2:45: Break
-  - 2:45-3:45: [Lab 1.5: Developing Intelligent Applications with LUIS][lab-cogsrvc-341]
   - 3:45-5: [Business Case I - Cognitive Services](./lab01.6-bootcamp_case_1/Case_Part1.md)
 - Day 2: Bots
   - 10-10:30: Introduction and Context for Bots
@@ -79,13 +80,14 @@ Here are some related courses from the LearnAI team:
 - [LearnAI: Intelligent Agents: Design and Architecture](https://aka.ms/daaia)
 - [LearnAI: Building Enterprise Cognitive Search Solutions](https://aka.ms/csw)  
 
-[lab-cogsrvc-301]: https://github.com/aviatoredb/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md
+[lab-cogsrvc-301]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab01.1-computer_vision/0_README.md
+[lab-azsearch-301]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab02.1-azure_search/0_README.md
+[lab-cogsrvc-341]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab01.5-luis/0_README
+
 [lab-cogsrvc-321]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-321
 [lab-cogsrvc-322]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-322
 [lab-cogsrvc-323]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-323
-[lab-cogsrvc-341]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-341
 
-[lab-azsearch-301]: https://github.com/aviatoredb/LearnAI-Bootcamp/blob/master/lab02.1-azure_search/0_README.md
 
 [lab-intelbot-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-301
 [lab-intelbot-311]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-311

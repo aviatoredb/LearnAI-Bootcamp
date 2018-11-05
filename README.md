@@ -81,7 +81,7 @@ Here are some related courses from the LearnAI team:
 - [LearnAI: Building Enterprise Cognitive Search Solutions](https://aka.ms/csw)  
 
 [lab-cogsrvc-301]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab01.1-computer_vision
-[lab-azsearch-301]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab02.1-azure_search
+[lab-azsearch-301]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab02.1-azure_search/0_README.html
 [lab-cogsrvc-341]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab01.5-luis
 
 [lab-cogsrvc-321]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-321

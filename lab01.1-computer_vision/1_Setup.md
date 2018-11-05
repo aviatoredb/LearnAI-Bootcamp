@@ -122,4 +122,4 @@ You'll need the **URI** and the **PRIMARY KEY** for your _TestCLI's_ `settings.j
 
 
 
-Back to [README](./0_README.md)
+Back to [README](https://github.com/aviatoredb/LearnAI-Bootcamp/blob/master/README.md)

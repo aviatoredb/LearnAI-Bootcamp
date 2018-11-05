@@ -79,7 +79,7 @@ Here are some related courses from the LearnAI team:
 - [LearnAI: Intelligent Agents: Design and Architecture](https://aka.ms/daaia)
 - [LearnAI: Building Enterprise Cognitive Search Solutions](https://aka.ms/csw)  
 
-[lab-cogsrvc-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-301
+[lab-cogsrvc-301]: https://github.com/aviatoredb/LearnAI-Bootcamp/blob/master/lab02.1-azure_search/0_README.md
 [lab-cogsrvc-321]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-321
 [lab-cogsrvc-322]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-322
 [lab-cogsrvc-323]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-323

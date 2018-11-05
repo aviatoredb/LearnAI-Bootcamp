@@ -122,4 +122,4 @@ Want to make sure you set up `ImageProcessor.cs` correctly? You can find the ful
 
 
 
-Back to [README](./0_README.md)
+Back to [README](https://github.com/aviatoredb/LearnAI-Bootcamp/blob/master/README.md)

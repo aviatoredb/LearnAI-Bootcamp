@@ -49,13 +49,13 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
   - 8-8:30 (optional): Setup assistance
   - 8:30-9:30: Introduction to Cognitive Services
   - 9:30-10:30: [Lab 1.1: Simplifying Cognitive Services App Development using Portable Class Libraries][lab-cogsrvc-301]
-  - 10:30-11:30: [Lab 2.1: Developing Intelligent Applications with Azure Search][lab-azsearch-301]
-  - 11:30-12:00: [Lab 1.5: Developing Intelligent Applications with LUIS][lab-cogsrvc-341]
+  - 10:30-11:30: [Lab 1.2: Developing Intelligent Applications with Azure Search][lab-azsearch-301]
+  - 11:30-12:00: [Lab 1.3: Developing Intelligent Applications with LUIS][lab-cogsrvc-341]
   - 12-1: Lunch
   - 1-1:30: Introduction and Context for Bots
-  - 1:30-3:00: [Lab 2.2: Building Intelligent Bots][lab-intelbot-301]
-  - 3-4: [Lab 2.5: Log Chat Conversations in your Bot][lab-intelbot-321]
-  - 4-5: [Lab 2.6: Testing your Bot][lab-intelbot-322]
+  - 1:30-3:00: [Lab 2.1: Building Intelligent Bots][lab-intelbot-301]
+  - 3-4: [Lab 2.2: Log Chat Conversations in your Bot][lab-intelbot-321]
+  - 4-5: [Lab 2.3: Testing your Bot][lab-intelbot-322]
 
 ## Supplementary materials
 The LearnAI team has provided some extra labs you may be interested in:

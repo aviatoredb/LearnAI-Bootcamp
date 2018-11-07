@@ -53,26 +53,12 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
   - 11:30-12:00: [Lab 1.5: Developing Intelligent Applications with LUIS][lab-cogsrvc-341]
   - 12-1: Lunch
   - 1-1:30: Introduction and Context for Bots
-  - 1:30-2:30: [Lab 2.2: Building Intelligent Bots][lab-intelbot-301]
-
-
-  - 1-1:30: Introduction to Custom Vision
-  - 1:30-2: [Lab 1.2: Creating an Image Classification Application using the Custom Vision Service][lab-cogsrvc-321]
-  - 2-2:30: [Lab 1.3: Creating an Object Detection Application using the Custom Vision Service][lab-cogsrvc-322]
-    - [Optional Challenge] [Lab 1.4: Creating an Image Classification Application using the Custom Vision Service][lab-cogsrvc-323]
-  - 2:30-2:45: Break
-  - 3:45-5: [Business Case I - Cognitive Services](./lab01.6-bootcamp_case_1/Case_Part1.md)
-- Day 2: Bots
-  - 12:30-1:30: Lunch
-  - 1:30-3:  [Lab 2.3: Enhancing Applications with Bing Search](./lab02.3-bing_search/0_README.md)
-  - 3-3:15: Break
-  - 3:15-4:15: [Business Case II - Bots](./lab02.4-bootcamp_case_2/Case_Part2.md)
-  - 4:15-5: Q&A and Feedback for Emerging AI Bootcamp
+  - 1:30-3:00: [Lab 2.2: Building Intelligent Bots][lab-intelbot-301]
+  - 3-4: [Lab 2.5: Log Chat Conversations in your Bot][lab-intelbot-321]
+  - 4-5: [Lab 2.6: Testing your Bot][lab-intelbot-322]
 
 ## Supplementary materials
 The LearnAI team has provided some extra labs you may be interested in:
-- [Lab 2.5: Log Chat Conversations in your Bot](./lab02.5-logging_chat_conversations/0_README.md)
-- [Lab 2.6: Testing your Bot](./lab02.6-testing_bots/0_README.md)
 
 
 ## Related courses
@@ -84,15 +70,8 @@ Here are some related courses from the LearnAI team:
 [lab-azsearch-301]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab02.1-azure_search/0_README.html
 [lab-cogsrvc-341]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab01.5-luis/0_README.html
 [lab-intelbot-301]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab02.2-building_bots/0_README.html
-
-
-[lab-cogsrvc-321]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-321
-[lab-cogsrvc-322]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-322
-[lab-cogsrvc-323]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-323
-
-
-[lab-intelbot-311]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-311
-[lab-intelbot-321]:https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-321
+[lab-intelbot-321]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab02.5-logging_chat_conversations/0_README.html
+[lab-intelbot-322]: https://aviatoredb.github.io/LearnAI-Bootcamp/lab02.6-testing_bots/0_README.html
 
 [gitter]: https://gitter.im/LearnAI-Bootcamps
 
